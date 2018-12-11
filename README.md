@@ -1,2 +1,3 @@
-# lucky
-starspot maps with starry
+<p align="center">
+  <img src="img/lucky.png"/>
+</p>
