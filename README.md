@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="img/lucky.png"/>
+  <img src="img/dalmatian.jpg"/>
 </p>
